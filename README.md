@@ -41,6 +41,7 @@ Create a fun, challenging game that helps players learn projectile motion throug
 - SRC FILE: Kirubashini S
 - UI Mockup: paul tokhtuev
 - README : Abd El Hamid Shekh Yousef
+- Initial Planning Document : Ethan Tang
 
 ### UML Class Diagram
 ![UML](https://github.com/Mo59471/ProjectileMotionTheGame/blob/main/images/ProjectileMotionTheGame_UML.png?raw=true)
