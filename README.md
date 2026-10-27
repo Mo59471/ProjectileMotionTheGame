@@ -1,7 +1,7 @@
 # ProjectileMotionTheGame
 ### Artifact Contributions: 
 - UML: Mo Spiegel
-- (everyone else list your name here)
+- SRC FILE: Kirubashini S
 
 ### UML Class Diagram
 ![UML](https://github.com/Mo59471/ProjectileMotionTheGame/blob/main/images/ProjectileMotionTheGame_UML.png?raw=true)
