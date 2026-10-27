@@ -48,3 +48,7 @@ Create a fun, challenging game that helps players learn projectile motion throug
 
 ### UI Mockup
 ![UIMockUp](https://github.com/Mo59471/ProjectileMotionTheGame/blob/main/docs/UIExample.png?raw=true)
+
+### Character Concept Art:
+![LIVING](https://github.com/Mo59471/ProjectileMotionTheGame/blob/main/images/LivingAvatar.png?raw=true)
+![DEAD](https://github.com/Mo59471/ProjectileMotionTheGame/blob/main/images/DeadAvatar.png?raw=true)
