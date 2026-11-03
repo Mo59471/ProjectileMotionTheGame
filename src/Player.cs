@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    private int x;
-    private int y;
     private int theta;
     private int h;
     private int r;
