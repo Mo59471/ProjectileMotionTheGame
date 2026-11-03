@@ -4,6 +4,7 @@ public class MapManager : MonoBehaviour
 {
     private SpriteRenderer sprite;
     private Vector2[] hitboxPositions;
+    private bool contact;
 
     [SerializeField] Sprite image;
 
